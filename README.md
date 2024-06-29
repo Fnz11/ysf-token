@@ -13,6 +13,7 @@
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Installation](#installation)
+  - [Environment Variables](#environment-variables)
 - [Details on the Four Examples](#details-on-the-four-examples)
   - [Token Details](#token-details)
   - [Faucet Details](#faucet-details)
@@ -68,6 +69,13 @@ The Faucet contract allows users to request a limited amount of YasfikToken for 
 git clone https://github.com/Fnz11/ysf-token
 cd ysf-token
 npm install
+```
+
+## Environment Variables
+Create a .env file in the root directory and add the following variables:
+```
+PRIVATE_KEY=your_private_key
+RPC_URL=your_rpc_url
 ```
 
 # Details on the Four Examples 
