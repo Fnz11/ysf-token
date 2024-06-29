@@ -56,8 +56,6 @@ The Faucet contract allows users to request a limited amount of YasfikToken for 
 ## Requirements
 - git
 -- You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
-- foundry
--- You'll know you did it right if you can run `forge --version` and you see a response like `forge 0.2.0 (816e00b 2023-03-16T00:05:26.396218Z)`
 - node
 -- You'll know you did it right if you can run `node --version` and you see a response like `v16.13.0`
 - npm
@@ -67,8 +65,8 @@ The Faucet contract allows users to request a limited amount of YasfikToken for 
 
 1. Clone the repo, navigate to the directory, and install dependencies with `npm install`
 ```
-git clone https://github.com/yourusername/yasfiktoken
-cd yasfiktoken
+git clone https://github.com/Fnz11/ysf-token
+cd ysf-token
 npm install
 ```
 
